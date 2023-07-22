@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coins
+  - Item_box
+  - Checkpoints
+  - Grass
+  - Sand
+  - Track
+  - OutOfBounds
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - MiniMap
+  - Water
+  - UI
+  - Mario
+  - Boo
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,2796 @@
+fileFormatVersion: 2
+guid: deff5de6f093b4a34a49f70a09cbe38a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2675554861957846424
+    second: Lakitu_0
+  - first:
+      213: -667571844258137200
+    second: Lakitu_1
+  - first:
+      213: 4181310135179369726
+    second: Lakitu_2
+  - first:
+      213: -3428137534567137675
+    second: Lakitu_3
+  - first:
+      213: -9215969054693332365
+    second: Lakitu_4
+  - first:
+      213: 713637402212285624
+    second: Lakitu_5
+  - first:
+      213: -4728844516269505209
+    second: Lakitu_6
+  - first:
+      213: -2813585151081734419
+    second: Lakitu_7
+  - first:
+      213: 52255239144221227
+    second: Lakitu_8
+  - first:
+      213: 4132280368866820208
+    second: Lakitu_9
+  - first:
+      213: 7681567923453175815
+    second: Lakitu_10
+  - first:
+      213: 5702479291917893014
+    second: Lakitu_11
+  - first:
+      213: 5446544637038291468
+    second: Lakitu_13
+  - first:
+      213: 4297120761276733890
+    second: Lakitu_14
+  - first:
+      213: -5440460402900880170
+    second: Lakitu_15
+  - first:
+      213: -7775376324087998141
+    second: Lakitu_16
+  - first:
+      213: -6450417733055404936
+    second: Lakitu_17
+  - first:
+      213: -5176647149337409938
+    second: Lakitu_18
+  - first:
+      213: -7868580248792858524
+    second: Lakitu_19
+  - first:
+      213: -8701245280031697631
+    second: Lakitu_20
+  - first:
+      213: 4650304193910365567
+    second: Lakitu_21
+  - first:
+      213: -1940655771102050976
+    second: Lakitu_22
+  - first:
+      213: 7477148679609232473
+    second: Lakitu_23
+  - first:
+      213: 2443404087553247689
+    second: Lakitu_24
+  - first:
+      213: 7473597110080215166
+    second: Lakitu_25
+  - first:
+      213: -1338263315228106582
+    second: Lakitu_26
+  - first:
+      213: 6354557070080098789
+    second: Lakitu_27
+  - first:
+      213: 4700439196954120200
+    second: Lakitu_28
+  - first:
+      213: 8670544228838318157
+    second: Lakitu_29
+  - first:
+      213: -7419133237172045871
+    second: Lakitu_30
+  - first:
+      213: -700183261829169141
+    second: Lakitu_31
+  - first:
+      213: -1528979790819701778
+    second: Lakitu_32
+  - first:
+      213: 5530416725437753749
+    second: Lakitu_33
+  - first:
+      213: 8423606167036114265
+    second: Lakitu_34
+  - first:
+      213: -1686413010545251718
+    second: Lakitu_35
+  - first:
+      213: 3118307722891626052
+    second: Lakitu_36
+  - first:
+      213: -2459202593399150337
+    second: Lakitu_37
+  - first:
+      213: -6728603596745124523
+    second: Lakitu_38
+  - first:
+      213: -2615035447854195497
+    second: Lakitu_39
+  - first:
+      213: -5118177004993765763
+    second: Lakitu_40
+  - first:
+      213: 1424016297290826045
+    second: Lakitu_41
+  - first:
+      213: -6966576812712429478
+    second: Lakitu_42
+  - first:
+      213: 3289014930359099056
+    second: Lakitu_43
+  - first:
+      213: 5331235571370061790
+    second: Lakitu_44
+  - first:
+      213: 1759730752972674811
+    second: Lakitu_45
+  - first:
+      213: 3374291700897132487
+    second: Lakitu_46
+  - first:
+      213: 7977848692391006269
+    second: Lakitu_47
+  - first:
+      213: -4945250338021481673
+    second: Lakitu_48
+  - first:
+      213: 6439749547794505269
+    second: Lakitu_49
+  - first:
+      213: 4085027404498021174
+    second: Lakitu_50
+  - first:
+      213: 4350623520471278845
+    second: Lakitu_51
+  - first:
+      213: 8545029541903875488
+    second: Lakitu_52
+  - first:
+      213: 8569512127182001533
+    second: Lakitu_53
+  - first:
+      213: -1777227208192251960
+    second: Lakitu_54
+  - first:
+      213: 6259025940275206028
+    second: Lakitu_55
+  - first:
+      213: -7518581692502023812
+    second: Lakitu_56
+  - first:
+      213: 6908069752206132387
+    second: Lakitu_57
+  - first:
+      213: 3481553176064454062
+    second: Lakitu_58
+  - first:
+      213: -366569745313622222
+    second: Lakitu_59
+  - first:
+      213: -2548091670564667255
+    second: Lakitu_60
+  - first:
+      213: -2195090173919694545
+    second: Lakitu_61
+  - first:
+      213: 7415844559056521584
+    second: Lakitu_62
+  - first:
+      213: -7250039579514887220
+    second: Lakitu_63
+  - first:
+      213: -4089578765954981133
+    second: Lakitu_64
+  - first:
+      213: 6378731169002457736
+    second: Lakitu_65
+  - first:
+      213: -8939593821962827330
+    second: Lakitu_66
+  - first:
+      213: -1138270962789541626
+    second: Lakitu_67
+  - first:
+      213: -6518159296999432416
+    second: Lakitu_68
+  - first:
+      213: -8755771476052802565
+    second: Lakitu_69
+  - first:
+      213: 7282753286755092759
+    second: Lakitu_70
+  - first:
+      213: 7281136607819755529
+    second: Lakitu_71
+  - first:
+      213: -7595084655919039383
+    second: Lakitu_72
+  - first:
+      213: -5381072641372985120
+    second: Lakitu_73
+  - first:
+      213: -1781106011307462745
+    second: Lakitu_74
+  - first:
+      213: 6672765107299998665
+    second: Lakitu_75
+  - first:
+      213: -9205789183495797569
+    second: Lakitu_76
+  - first:
+      213: -8499427517300142269
+    second: Lakitu_77
+  - first:
+      213: -3929094112189295997
+    second: Lakitu_78
+  - first:
+      213: -5170573811337540459
+    second: Lakitu_79
+  - first:
+      213: -9206625881229136233
+    second: Lakitu_80
+  - first:
+      213: -7081125218074536621
+    second: Lakitu_81
+  - first:
+      213: -4109806885371791180
+    second: Lakitu_82
+  - first:
+      213: -3816940505792060637
+    second: Lakitu_83
+  - first:
+      213: -1377973768760775138
+    second: Lakitu_84
+  - first:
+      213: 6559850987545171803
+    second: Lakitu_85
+  - first:
+      213: 7541271838915075425
+    second: Lakitu_86
+  - first:
+      213: 6769801238625908153
+    second: Lakitu_87
+  - first:
+      213: 1162446724608012176
+    second: Lakitu_88
+  - first:
+      213: -5649835742882621132
+    second: Lakitu_89
+  - first:
+      213: -5644582247341284094
+    second: Lakitu_90
+  - first:
+      213: -7115819227659029428
+    second: Lakitu_91
+  - first:
+      213: 3642169191503682591
+    second: Lakitu_92
+  - first:
+      213: 2574197956076519618
+    second: Lakitu_93
+  - first:
+      213: 3073098170952984739
+    second: Lakitu_94
+  - first:
+      213: 8823718000355518249
+    second: Lakitu_95
+  - first:
+      213: 7063754571766406882
+    second: Lakitu_96
+  - first:
+      213: -2165296883463695118
+    second: Lakitu_97
+  - first:
+      213: -3759352542680555853
+    second: Lakitu_98
+  - first:
+      213: 4457718678535903309
+    second: Lakitu_99
+  - first:
+      213: 686668924157326224
+    second: Lakitu_100
+  - first:
+      213: -1406173514464451236
+    second: Lakitu_101
+  - first:
+      213: -8605901261716521836
+    second: Lakitu_102
+  - first:
+      213: -4120891310415972802
+    second: Lakitu_103
+  - first:
+      213: -799989248923783804
+    second: Lakitu_104
+  - first:
+      213: 2884444893086854263
+    second: Lakitu_105
+  - first:
+      213: -3648134040348775952
+    second: Lakitu_106
+  - first:
+      213: 8839649393270465668
+    second: Lakitu_107
+  - first:
+      213: 1330895344649359092
+    second: Lakitu_108
+  - first:
+      213: -5434082307180925872
+    second: Lakitu_109
+  - first:
+      213: 1245560125867183564
+    second: Lakitu_110
+  - first:
+      213: 4130751984058657288
+    second: Lakitu_111
+  - first:
+      213: 6597617912990415838
+    second: Lakitu_112
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lakitu_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8951114a8fa712520800000000000000
+      internalID: 2675554861957846424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 59
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bf0f0d1fe4cb6f0800000000000000
+      internalID: -667571844258137200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 59
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc5b171a6ff60a30800000000000000
+      internalID: 4181310135179369726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 59
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e31fa431fcc60d0800000000000000
+      internalID: -3428137534567137675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 522
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ae20a19fc4a1080800000000000000
+      internalID: -9215969054693332365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 522
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcbb41bf6957e900800000000000000
+      internalID: 713637402212285624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 522
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c3b987f4cf5eb0800000000000000
+      internalID: -4728844516269505209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 522
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee957c463324f8d0800000000000000
+      internalID: -2813585151081734419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 522
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a28d6fcd5a9b000800000000000000
+      internalID: 52255239144221227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 521
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07080aa0a1fc85930800000000000000
+      internalID: 4132280368866820208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 521
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7082673e3596a9a60800000000000000
+      internalID: 7681567923453175815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 521
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d79c5f3b6432f40800000000000000
+      internalID: 5702479291917893014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae9f78d73069b40800000000000000
+      internalID: 5446544637038291468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 447
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c91bd4b09072ab30800000000000000
+      internalID: 4297120761276733890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 447
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4b38e961a9f74b0800000000000000
+      internalID: -5440460402900880170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 447
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34990cfcd60581490800000000000000
+      internalID: -7775376324087998141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 447
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8742a506f338b76a0800000000000000
+      internalID: -6450417733055404936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 447
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66843048dad828b0800000000000000
+      internalID: -5176647149337409938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_19
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 447
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4600c0804ff2dc290800000000000000
+      internalID: -7868580248792858524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_20
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 447
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1259a2cd487fe3780800000000000000
+      internalID: -8701245280031697631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 372
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d5987a603398040800000000000000
+      internalID: 4650304193910365567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 372
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0658624bbd76115e0800000000000000
+      internalID: -1940655771102050976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 372
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca3e4cb1b24c760800000000000000
+      internalID: 7477148679609232473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 372
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c949596217b8e120800000000000000
+      internalID: 2443404087553247689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 372
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7897bc89fc87b760800000000000000
+      internalID: 7473597110080215166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 372
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa064efea988d6de0800000000000000
+      internalID: -1338263315228106582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_27
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 372
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e14213ccfbef2850800000000000000
+      internalID: 6354557070080098789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_28
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 372
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d5ceab805b3140800000000000000
+      internalID: 4700439196954120200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 297
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40a831a906f35870800000000000000
+      internalID: 8670544228838318157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 297
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7f01901a1f90990800000000000000
+      internalID: -7419133237172045871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 297
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b008ff878037846f0800000000000000
+      internalID: -700183261829169141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_32
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 297
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc07b2bf8f7cae0800000000000000
+      internalID: -1528979790819701778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599a89bd5bcffbc40800000000000000
+      internalID: 5530416725437753749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_34
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 244
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9553af1cd29a6e470800000000000000
+      internalID: 8423606167036114265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_35
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 244
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a6ad94d48a898e0800000000000000
+      internalID: -1686413010545251718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 244
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446005b3a54764b20800000000000000
+      internalID: 3118307722891626052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 244
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff869bd45482fddd0800000000000000
+      internalID: -2459202593399150337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_38
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 244
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555579dada23f92a0800000000000000
+      internalID: -6728603596745124523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_39
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 244
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc989f7d1785bbd0800000000000000
+      internalID: -2615035447854195497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 244
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e16c7912598f8b0800000000000000
+      internalID: -5118177004993765763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_41
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 244
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d310362174f13c310800000000000000
+      internalID: 1424016297290826045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_42
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 244
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a587dc1ac4fb15f90800000000000000
+      internalID: -6966576812712429478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_43
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 244
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be920937ade4ad20800000000000000
+      internalID: 3289014930359099056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_44
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 244
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf607d818a5cf940800000000000000
+      internalID: 5331235571370061790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_45
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 244
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6544fdbc1db6810800000000000000
+      internalID: 1759730752972674811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_46
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 244
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa5889c64e3de20800000000000000
+      internalID: 3374291700897132487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_47
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 244
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d7c50e1307be60800000000000000
+      internalID: 7977848692391006269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_48
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 244
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73369d4c401fe5bb0800000000000000
+      internalID: -4945250338021481673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 186
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e16ce28169e5950800000000000000
+      internalID: 6439749547794505269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 186
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b27dee7cee0b830800000000000000
+      internalID: 4085027404498021174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 186
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df466219a05806c30800000000000000
+      internalID: 4350623520471278845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 186
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad3668481b069670800000000000000
+      internalID: 8545029541903875488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 186
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75d51f50e50de670800000000000000
+      internalID: 8569512127182001533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_54
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 186
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7aa8235450657e0800000000000000
+      internalID: -1777227208192251960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_55
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 186
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c871f025ee68cd650800000000000000
+      internalID: 6259025940275206028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 186
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7169ab29c1a8a790800000000000000
+      internalID: -7518581692502023812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_57
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 186
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a40edfc6d46edf50800000000000000
+      internalID: 6908069752206132387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_58
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 186
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead64f5ea26f05030800000000000000
+      internalID: 3481553176064454062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_59
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 186
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2371d2142cea9eaf0800000000000000
+      internalID: -366569745313622222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_60
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 186
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9808cd0402c53acd0800000000000000
+      internalID: -2548091670564667255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_61
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 186
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21f09ded197981e0800000000000000
+      internalID: -2195090173919694545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_62
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 186
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c31ce55f5ae660800000000000000
+      internalID: 7415844559056521584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_63
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 186
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc32e7f2a6fa26b90800000000000000
+      internalID: -7250039579514887220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_64
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 186
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2e546a7c5ee37c0800000000000000
+      internalID: -4089578765954981133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a8a16c33ec58850800000000000000
+      internalID: 6378731169002457736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_66
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb901ad68ce20f380800000000000000
+      internalID: -8939593821962827330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_67
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60999c4179c0430f0800000000000000
+      internalID: -1138270962789541626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_68
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f50f077a8da85a0800000000000000
+      internalID: -6518159296999432416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_69
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3006b8b304d7680800000000000000
+      internalID: -8755771476052802565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_70
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71988d35789811560800000000000000
+      internalID: 7282753286755092759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_71
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900703eea2bcb0560800000000000000
+      internalID: 7281136607819755529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_72
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cfce4feb6d89690800000000000000
+      internalID: -7595084655919039383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_73
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 131
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e36c51f69255b0800000000000000
+      internalID: -5381072641372985120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_74
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa4b8f48d3847e0800000000000000
+      internalID: -1781106011307462745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_75
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbdc32e28c6a9c50800000000000000
+      internalID: 6672765107299998665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_76
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4899013877e3080800000000000000
+      internalID: -9205789183495797569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_77
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f052574b7fb0a80800000000000000
+      internalID: -8499427517300142269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_78
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382d0e1e8bd0979c0800000000000000
+      internalID: -3929094112189295997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_79
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc942738e6e38b0800000000000000
+      internalID: -5170573811337540459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_80
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 131
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6b613a8e7b3080800000000000000
+      internalID: -9206625881229136233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3555b9ea12acabd90800000000000000
+      internalID: -7081125218074536621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_82
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8b5f5996807f6c0800000000000000
+      internalID: -4109806885371791180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_83
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e67f35d0870bc0800000000000000
+      internalID: -3816940505792060637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_84
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e253b782470ece0800000000000000
+      internalID: -1377973768760775138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_85
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b571024b7b5490b50800000000000000
+      internalID: 6559850987545171803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_86
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d903938caf7a860800000000000000
+      internalID: 7541271838915075425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_87
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5fb4ccb5a23fd50800000000000000
+      internalID: 6769801238625908153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_88
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa39a1327d12010800000000000000
+      internalID: 1162446724608012176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_89
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4391d227350c791b0800000000000000
+      internalID: -5649835742882621132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_90
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2052fb13a5a6aa1b0800000000000000
+      internalID: -5644582247341284094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_91
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c443d791d188f3d90800000000000000
+      internalID: -7115819227659029428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_92
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd27725959b8230800000000000000
+      internalID: 3642169191503682591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_93
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c04a71076369b320800000000000000
+      internalID: 2574197956076519618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_94
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a82e872186d5aa20800000000000000
+      internalID: 3073098170952984739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_95
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927296175c4247a70800000000000000
+      internalID: 8823718000355518249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_96
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9dae8b5f770260800000000000000
+      internalID: 7063754571766406882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_97
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4d2ebe4f153f1e0800000000000000
+      internalID: -2165296883463695118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_98
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be5014c7c814dbc0800000000000000
+      internalID: -3759352542680555853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_99
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4891c6258ffcdd30800000000000000
+      internalID: 4457718678535903309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_100
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09372b69fb9878900800000000000000
+      internalID: 686668924157326224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_101
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55a8c983a44c7ce0800000000000000
+      internalID: -1406173514464451236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_102
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cfc430662b19880800000000000000
+      internalID: -8605901261716521836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_103
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3679a4cf27afc6c0800000000000000
+      internalID: -4120891310415972802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_104
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d24c1440ed5e4f0800000000000000
+      internalID: -799989248923783804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_105
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ca1aa095b970820800000000000000
+      internalID: 2884444893086854263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_106
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f920004b693f5dc0800000000000000
+      internalID: -3648134040348775952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_107
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48422e8e94ebcaa70800000000000000
+      internalID: 8839649393270465668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_108
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fecb0bb34a487210800000000000000
+      internalID: 1330895344649359092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_109
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cee30cee24694b0800000000000000
+      internalID: -5434082307180925872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_110
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd44b0d55e194110800000000000000
+      internalID: 1245560125867183564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_111
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a6e093b01635930800000000000000
+      internalID: 4130751984058657288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lakitu_112
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb3c8349827f8b50800000000000000
+      internalID: 6597617912990415838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 454ad00b090e74724b86ed828d3f26ce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
